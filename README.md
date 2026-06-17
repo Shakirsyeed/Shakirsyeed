@@ -5,8 +5,8 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shakirsyeed)
-[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shakir-syeed)
+[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shakirsyeed24@gmail.com.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shakirsyeed)
 ![Profile Views](https://komarev.com/ghpvc/?username=Shakirsyeed&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
 
@@ -176,8 +176,8 @@ shakir = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shakirsyeed)
-[![Email](https://img.shields.io/badge/SEND_AN_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shakir-syeed)
+[![Email](https://img.shields.io/badge/SEND_AN_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shakirsyeed24@gmail.com)
 
 <br/><br/>
 
