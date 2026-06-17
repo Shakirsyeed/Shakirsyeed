@@ -176,7 +176,7 @@ shakir = {
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shakirsyeed&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff)
 
-</div>
+<!-- </div> -->
 
 ---
 
